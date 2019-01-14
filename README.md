@@ -1,2 +1,2 @@
 # atbswp
-Projects in automate-the-boring-stuff-with-python
+Projects in automate-the-boring-stuff-with-python(atbswp)
