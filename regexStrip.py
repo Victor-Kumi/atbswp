@@ -11,6 +11,6 @@ def regexStrip(string, strip):
         print(''.join(newstring))    
 
 
-regexStrip('If you want to lstrip and rstrip space\n Enter "" as second argument\n Else enter characters to strip as second argument. ', '')
+regexStrip('  If you want to lstrip and rstrip space\n Enter "" as second argument\n Else enter characters to strip as second argument.  ', '')
 print('')
 regexStrip('If you want to lstrip and rstrip space\n Enter "" as second argument\n Else enter characters to strip as second argument. ', 'If')
