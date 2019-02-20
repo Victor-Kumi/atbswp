@@ -1,5 +1,10 @@
 import random
 
+#In this game, there are two chances for the user 
+#to guess either heads or tails
+#For each guess, while guess isn't in tuple ('heads','tails'),
+#the user guess is invalid and game chance is unchanged.
+
 def guessProper():
     global guess
     while guess not in ('heads', 'tails'):
