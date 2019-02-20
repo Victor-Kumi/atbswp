@@ -1,7 +1,5 @@
 import random
 
-
-
 def guessProper():
     global guess
     while guess not in ('heads', 'tails'):
